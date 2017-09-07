@@ -1,0 +1,20 @@
+#avatar {
+  width: 256px;
+  height: 256px;
+  border: 1px solid #000;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%; }
+#name {
+  margin: 0.5em 0; }
+#pic {
+  border: 0px;
+  vertical-align:middle;
+}
+
+.reveal .title {
+  margin-bottom: 0.8em; }
+
+.reveal .date {
+  color: #F3BB31; }
